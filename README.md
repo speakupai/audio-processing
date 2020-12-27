@@ -26,5 +26,5 @@ To run it locally:
 
    
 
-3. You will see generated audio, spectrogram, and time_series generated in train folder
+3. You will see generated audio, spectrogram, and time_series in tne train folder
 

@@ -1,6 +1,6 @@
 # audio-processing
 
-This repository contains python scripts to manipulate and convert raw audio to low resolution, noisy and messy compression\EQ audio.
+This repository contains python scripts to manipulate and convert raw audio to low resolution, noisy and messy compression\EQ.
 
 The boilplate scripts are inspired by: https://github.com/vbelz/Speech-enhancement
 

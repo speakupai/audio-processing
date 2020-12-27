@@ -10,7 +10,7 @@ To run it locally:
 
 0. Prerequisites:
    - install librosa
-   - Some clean voice data and noise data into the train folder. You can add your own voice and noise data.  Voice and noise data must have the same sample rate. (The provided data has 8000 sample rate)
+   - Some clean voice data and noise data have been provided in the train folder. You can add your own voice and noise data.  Voice and noise data must have the same sample rate. (The provided data has 8000 sample rate)
 
 1. Open args.py in scripts folder and update default paths to your local paths for the following arguments: 
 
